@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm abdulmannan4!
 
-<!--
-**abdulmannan4/abdulmannan4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Welcome to my GitHub profile! I am a passionate developer focused on building clean, efficient, and impactful software solutions.
 
-Here are some ideas to get you started:
+- 🛠️ Currently working on improving my tech stack.
+- 📚 Learning new frameworks and open-source practices.
+- 💬 Ask me about web development or software engineering!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Tools
+- **Languages:** JavaScript, Python, HTML/CSS
+- **Frameworks/Libraries:** React, Node.js
+- **Tools:** Git, GitHub, VS Code
+
+## 📈 GitHub Stats
+*Add your GitHub Readme Stats or widgets here!*
+
+## 📬 Connect with Me
+- **LinkedIn:** https://www.linkedin.com/in/abdul-mannan-756706269/
+- **Email:** abdul.mannan.shaykh@gmail.com
